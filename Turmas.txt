@@ -1,0 +1,15 @@
+Professor,Disciplina,Dia,Turno,Alunos
+Inocêncio Jirafales,Pedagogia,Seg,Manhã,20
+Espergencia Valdes,Psicologia,Seg,Noite,55
+Espergencia Valdes,Psicologia,Seg,Manhã,88
+Federico Bardon de la Regueira,Direito,Ter,Noite,38
+Ramon Valdes,Administracao de empresas,Seg,Noite,27
+Zenon Barriga y Pesado,Economia,Ter,Noite,40
+Febronio Barriga y Pesado Jr,Culinária,Qua,Noite,18
+Popis Maria Dellayandro y Callndo,Teatro,Sex,Noite,36
+Popis Maria Dellayandro y Callndo,Teatro,Qua,Noite,12
+Jaime Angel Gabarito,Logistica,Seg,Manhã,1
+Inocêncio Jirafales,Pedagogia,Seg,Noite,80
+Federico Bardon de la Regueira,Direito,Ter,Manhã,23
+Popis Maria Dellayandro y Callndo,Teatro,Seg,Noite,32
+Popis Maria Dellayandro y Callndo,Teatro,Seg,Manhã,35
